@@ -75,7 +75,7 @@ React, TypeScript, Sass, Material UI, and Create React App.
 - Skills and technical expertise
 - Internship, education, achievements, and HackerRank Java (Basic) certificate
 - Profile photo
-- Responsive Java and Spring Boot project cards, including a direct GitHub link to the Library Management System
+- Responsive Java and Spring Boot project cards with direct GitHub links to the Library Management System and Online Food Ordering System
 - Contact form that opens an email draft
 
 This site is based on the [React Portfolio Template](https://github.com/yujisatojr/react-portfolio-template).

@@ -13,7 +13,7 @@ const projects = [
         name: "Online Food Ordering System",
         description: "Built CRUD-oriented REST APIs for restaurants, menu items, customers, and orders, with MySQL persistence, layered services, validation, and exception handling.",
         skills: "Java · Spring Boot · Spring Data JPA · Hibernate · MySQL",
-        repository: undefined,
+        repository: "https://github.com/manognakv13-sudo/Online_Food_Ordering_System",
     },
 ];
 

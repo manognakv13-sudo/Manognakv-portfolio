@@ -20,4 +20,8 @@ test('renders Manogna K V and portfolio sections', () => {
     'href',
     'https://github.com/manognakv13-sudo/library-management-system'
   );
+  expect(screen.getByRole('link', { name: 'View Online Food Ordering System on GitHub' })).toHaveAttribute(
+    'href',
+    'https://github.com/manognakv13-sudo/Online_Food_Ordering_System'
+  );
 });
